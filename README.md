@@ -28,6 +28,11 @@ jQuery plugin to auto resize and position image for picture background and respo
 
 ## Usage:
 
+    <div id="image-background" class="image-background">
+        <img src="http://farm9.staticflickr.com/8460/8041355249_258d9fc96f_b.jpg" class="centerImage">
+    </div>
+
+
     $(document).ready(function() {
         jQuery("#image-background").centerImage();
     });
