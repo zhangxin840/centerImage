@@ -1,7 +1,7 @@
 centerImage
 ===========
 
-jQuery plugin to auto resize image for picture background and responsive web design.
+jQuery plugin to auto resize and position image for picture background and responsive web design.
 
 #### Features:
 
